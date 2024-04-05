@@ -8,7 +8,7 @@ export const BD = {
   aws_remote_config: {
     accessKeyId: '------',
     secretAccessKey: '-',
-    region: 'us-east-2',
+    region: '---',
   }
 };
 
